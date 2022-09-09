@@ -1,0 +1,18 @@
+body {
+    background-color:darkolivegreen;
+    display: inline-block;
+    color: white;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+    font-size: large;
+    text-align: center;
+}
+ 
+img {
+    height: 350px;
+    width: 350px;
+    border: 12px outset khaki;
+}
+
+p, ol, ul {
+    text-align: justify;
+ }
