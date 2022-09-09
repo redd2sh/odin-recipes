@@ -1,0 +1,22 @@
+body {
+    font-family: Impact, Verdana, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: large;
+    color: saddlebrown;
+    background-color: blanchedalmond;
+    display: inline-block;
+}
+
+h1 {
+    font-weight: 950;
+}
+
+img {
+    height: 500px;
+    width: 700px;
+}
+
+p, ul, ol {
+    text-align: justify;
+}
+
